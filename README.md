@@ -39,8 +39,8 @@ I love exploring how **AI can shape user experience**, from multilingual assista
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thuanhoang-ai&show_icons=true&theme=radical" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanhoang-ai&layout=compact&theme=radical" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hdtthuan&show_icons=true&theme=radical" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdtthuan&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -62,10 +62,9 @@ I love exploring how **AI can shape user experience**, from multilingual assista
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/thuanhoang-ai/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/thuanhoang-ai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/thuanhoang"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="mailto:thuanhoang.ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/thuanhoang-ai/](https://www.linkedin.com/in/thuan-hoang-do-thanh-99334321b/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/hdtthuan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="kodtt1234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
