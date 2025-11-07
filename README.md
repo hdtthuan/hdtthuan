@@ -24,7 +24,7 @@ I love exploring how **AI can shape user experience**, from multilingual assista
 | 🧍‍♂️ **SOP Monitoring by AI** | Action detection pipeline combining YOLO + 3D CNN + Pose Estimation | `YOLOv11`, `OpenCV`, `PyTorch`, `Attentive Fusion` |
 | ⚡ **Energy Forecasting for Smart Cities** | Hybrid deep learning for sustainable energy prediction | `EfficientNet`, `Attention`, `Time Series Analysis` |
 
-> Explore more on [my repositories »](https://github.com/thuanhoang-ai?tab=repositories)
+> Explore more on [my repositories »](https://github.com/hdtthuan?tab=repositories)
 
 ---
 
