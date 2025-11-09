@@ -1,72 +1,79 @@
-# 👋 Hi, I'm Thuận Hoàng
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/hdtthuan/hdtthuan/assets/banner-ai.gif" alt="AI Engineer Banner" width="100%" />
+</p>
 
-🎓 **AI Engineer | Deep Learning Researcher | Applied NLP & Computer Vision | Reinforcement Learning Enthusiast**
+<h1 align="center">👋 Hi, I'm <span style="color:#FF4B91;">Thuận Hoàng</span></h1>
+
+<h3 align="center">🎓 AI Engineer | Deep Learning Researcher | NLP & Computer Vision | RL Enthusiast</h3>
 
 ---
 
-### 🚀 About Me
-I'm an **AI undergraduate at FPT University Ho Chi Minh City**, passionate about building **real-world intelligent systems** that bridge **research and production**.  
-My interests lie at the intersection of:
-- 🧠 **Deep Learning** — model design, optimization, and deployment  
-- 🗣️ **Natural Language Processing** — Vietnamese ASR, text understanding, and translation  
-- 👁️ **Computer Vision** — face recognition, action detection, and video analysis  
-- 🎯 **Reinforcement Learning** — contextual multi-armed bandits and adaptive recommendation systems  
+### 🚀 About Me  
+I'm an **AI undergraduate at FPT University Ho Chi Minh City**, passionate about building **real-world intelligent systems** that bridge **research and production**.
 
-I love exploring how **AI can shape user experience**, from multilingual assistants to SOP monitoring systems.
+🧠 Interests: Deep Learning · NLP · Computer Vision · Reinforcement Learning  
+💡 Motto: _“Turning data into understanding, and understanding into innovation.”_
 
 ---
 
 ### 🧩 Featured Projects
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🗣️ **Vietnamese ASR (PhoWhisper)** | Fine-tuned speech recognition for 3 dialects of Vietnam | `PyTorch`, `Transformers`, `Whisper`, `ViMD Dataset` |
-| 🌏 **VietEase App** | Vietnamese AI-powered travel & translation assistant | `FastAPI`, `React Native`, `SQLModel`, `RL Bandits` |
-| 🧍‍♂️ **SOP Monitoring by AI** | Action detection pipeline combining YOLO + 3D CNN + Pose Estimation | `YOLOv11`, `OpenCV`, `PyTorch`, `Attentive Fusion` |
-| ⚡ **Energy Forecasting for Smart Cities** | Hybrid deep learning for sustainable energy prediction | `EfficientNet`, `Attention`, `Time Series Analysis` |
+| 🧠 Project | Description | Tech Stack |
+|------------|--------------|-------------|
+| 🗣️ **Vietnamese ASR (PhoWhisper)** | Fine-tuned Whisper for 3 Vietnamese dialects | `PyTorch` · `Transformers` · `Whisper` |
+| 🌏 **VietEase App** | AI-powered travel & translation assistant | `FastAPI` · `React Native` · `RL Bandits` |
+| 🧍‍♂️ **SOP Monitoring by AI** | Action detection (YOLO + 3D CNN + Pose Estimation) | `YOLOv11` · `OpenCV` · `FusionNet` |
+| ⚡ **Energy Forecasting** | Hybrid DL for smart cities | `EfficientNet` · `Attention` · `TS Analysis` |
 
-> Explore more on [my repositories »](https://github.com/hdtthuan?tab=repositories)
-
----
-
-### 🛠️ Tech Stack
-**Languages:** Python · R · JavaScript · TypeScript · SQL  
-**AI/ML:** PyTorch · TensorFlow · Transformers · Scikit-learn · OpenCV  
-**Web/App:** FastAPI · React Native · Redux Toolkit · Tailwind · PostgreSQL  
-**Tools & Infra:** Docker · Vast.ai · GitHub Actions · Kaggle · Colab · VS Code  
-**Other Skills:** Data visualization · Statistical analysis · Academic writing (LaTeX)
+> 🧭 Explore more on my [repositories »](https://github.com/hdtthuan?tab=repositories)
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack  
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hdtthuan&show_icons=true&theme=radical" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdtthuan&layout=compact&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,react,postgresql,docker,github,git,js,ts,latex&theme=dark" />
 </p>
 
 ---
 
-### 🌱 What I’m Working On
-- 🔬 Fine-tuning large speech models for **Vietnamese dialect adaptation**  
-- 💡 Building **real-time recommendation systems** with reinforcement learning  
-- 🧰 Expanding **VietEase** into a production-level AI mobile assistant  
-- 📚 Writing a **scientific report** on Vietnamese ASR & dialect diversity  
-
----
-
-### ✨ Fun Facts
-- 🐍 I started coding in Python for data visualization, then fell in love with deep learning  
-- 🌏 I believe AI should **understand context, culture, and language**  
-- 🎮 Outside of tech: Pokémon GO trainer ⚔️, philosophy enthusiast, and indie game lover  
-
----
-
-### 📫 Connect with Me
+### 📊 GitHub Stats  
 <p align="center">
-  <a href="[https://www.linkedin.com/in/thuan-hoang-do-thanh-99334321b/](https://www.linkedin.com/in/thuan-hoang-do-thanh-99334321b/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/hdtthuan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="kodtt1234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hdtthuan&show_icons=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdtthuan&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-⭐️ _“Turning data into understanding, and understanding into innovation.”_  
+### 🌱 Current Focus  
+- 🔬 Fine-tuning **Vietnamese ASR** models for dialect adaptation  
+- 🤖 Reinforcement Learning for **real-time recommendation systems**  
+- 📱 Expanding **VietEase** into a production-level AI assistant  
+- ✍️ Writing scientific reports on **speech recognition & dialect diversity**
+
+---
+
+### ✨ Fun Facts  
+- 🐍 Started with Python data viz → fell in love with deep learning  
+- 🌏 Believe AI should understand **context, culture, and language**  
+- 🎮 Pokémon GO Trainer ⚔️ | 🧘 Philosophy lover | 🎧 Lo-fi enjoyer
+
+---
+
+### 📫 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/thuan-hoang-do-thanh-99334321b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Thuận%20Hoàng-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kodtt1234@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-kodtt1234%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/hdtthuan">
+    <img src="https://img.shields.io/badge/GitHub-hdtthuan-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
